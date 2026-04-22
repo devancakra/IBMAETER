@@ -57,7 +57,7 @@ IBMAETER is a website designed to streamline warehouse inventory and workforce m
 
 2. Access the browser first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.<br><br>
 
-3. Create a database called ``` warehouse_db ``` on local.<br><br>
+3. Create a database called ``` warehouse_db ```.<br><br>
 
 4. Open the ``` warehouse_db ``` database and Import ``` warehouse_db_default.sql ``` in the ``` IBMAETER/public/sql ``` directory.<br><br>
 
